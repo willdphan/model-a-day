@@ -1,6 +1,7 @@
 """
 TD Prediction
-
+Created: 03-05-2024
+---
 Temporal Difference (TD) Prediction is a reinforcement learning method used to estimate the value function of a policy by updating the value estimates based on the observed rewards and the estimated value of the next state, instead of waiting until the end of an episode as in Monte Carlo methods.
 
 The provided code implements TD(0) Prediction, which is a specific instance of TD Prediction where the value of each state is updated based on the observed immediate reward and the estimated value of the next state. 

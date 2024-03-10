@@ -1,6 +1,7 @@
 """
 PointNet
-
+Created: 01-01-2024
+---
 The T-Net is implemented in the STN3D class.
 
 The Spatial Transformer Network (STN) concept is realized in the STN3D class, 
@@ -8,9 +9,6 @@ where MLPs learn the spatial transformation.
 
 MLP components are present in all classes: in STN3D (for learning the spatial transformation), 
 in PointNetfeat (for feature extraction), and in PointNetCls (for classification).
-
-Author: William Phan
-Created: 1-1-2024
 """
 
 

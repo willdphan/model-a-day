@@ -1,11 +1,6 @@
 """
-A from scratch implementation of Transformer network,
-following the paper Attention is all you need with a
-few minor differences. I tried to make it as clear as
-possible to understand and also went through the code
-on my youtube channel!
-
-
+Transformer
+Created: 12-09-2024
 """
 
 import torch

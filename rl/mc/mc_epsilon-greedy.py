@@ -1,4 +1,7 @@
 """
+Monte Carlo Epsilon-Greedy
+Created: 03-03-2024
+---
 The epsilon-greedy method balances exploration and exploitation in reinforcement learning by occasionally choosing a random action with probability ε, and otherwise selecting the action with the highest estimated value based on the current policy. 
 
 In the provided code, the random_action function implements this method by choosing the given action with probability 1 - ε + ε/4 and selecting a random action with probability ε/4. This approach encourages the agent to explore different actions while still favoring those with higher estimated values according to the policy.

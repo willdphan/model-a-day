@@ -1,4 +1,7 @@
 """
+Monte Carlo Control
+Created: 03-03-2024
+---
 Monte Carlo (MC) Control with Exploring Starts is a method in reinforcement learning used to find an optimal policy by combining policy evaluation and policy improvement.
 
 Exploring Starts method is a technique used in reinforcement learning to ensure exploration of all state-action pairs by starting episodes from random initial states and actions. 

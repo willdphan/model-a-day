@@ -1,7 +1,5 @@
 """
 VGG
-
-Author: William Phan
 Created: 12-24-2023
 """
 

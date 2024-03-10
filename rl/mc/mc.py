@@ -1,6 +1,7 @@
 """
 Monte-Carlo
-
+Created: 03-03-2024
+---
 Monte Carlo methods in reinforcement learning use random sampling from episodes of interaction with an environment to estimate value functions and discover optimal policies.
 
 The script conducts Monte Carlo policy evaluation in a grid world environment by simulating how an agent moves according to a predefined deterministic policy. 

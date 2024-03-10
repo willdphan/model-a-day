@@ -1,7 +1,5 @@
 """
 ResNet
-
-Author: William Phan
 Created: 12-20-2023
 """
 

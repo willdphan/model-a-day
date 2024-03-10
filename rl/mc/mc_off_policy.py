@@ -1,6 +1,7 @@
 """
-Off-Policy MC with Importance Sampling
-
+Monte Carlo Off-Policy with Importance Sampling
+Created: 03-03-2024
+---
 This simplified script simulates episodes using a random walk as the behavior policy and evaluates the rewards under a deterministic target policy aiming to minimize the distance to the origin. 
 
 The script simulates random walks to evaluate a target policy's effectiveness in minimizing distance to the origin using importance sampling. It generates episodes based on a random behavior policy, calculates rewards favoring closeness to the origin, and then evaluates the target policy by comparing chosen actions against those the target policy would prefer. 

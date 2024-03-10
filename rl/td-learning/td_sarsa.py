@@ -1,6 +1,7 @@
 """
 Sarsa, On-Policy TD Control
-
+Created: 03-05-2024
+---
 TD SARSA is a reinforcement learning algorithm that learns to make decisions in an environment by directly interacting with it.
 
 It updates its estimates of action values based on the observed transitions from one state to another and the rewards received along the way.

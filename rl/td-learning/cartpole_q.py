@@ -1,3 +1,8 @@
+"""
+Cartpole Q-Learning
+Created: 03-05-2024
+"""
+
 # https://github.com/johnnycode8/gym_solutions/blob/main/cartpole_q.py
 
 import gymnasium as gym

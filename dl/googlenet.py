@@ -1,7 +1,5 @@
 """
 GoogLeNet
-
-Author: William Phan
 Created: 12-25-2023
 """
 

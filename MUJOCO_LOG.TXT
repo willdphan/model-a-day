@@ -1,6 +1,0 @@
-Fri Mar  1 00:34:49 2024
-WARNING: mju_openResource: unknown file 'path/to/your/model.xml'
-
-Fri Mar  1 00:36:00 2024
-WARNING: mju_openResource: unknown file 'path/to/your/model.xml'
-

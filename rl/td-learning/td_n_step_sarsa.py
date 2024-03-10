@@ -1,6 +1,7 @@
 """
 TD n-Step Sarsa
-
+Created: 03-05-2024
+---
 Updates the Q-value based on the sum of rewards over the next n steps, plus the discounted value of the action taken n steps ahead, according to the current policy. This allows it to consider a longer trajectory in the environment before making an update, potentially leading to a more informed update at each step.
 
 Accumulates rewards over n steps and then updates the Q-values using these accumulated rewards. This approach can provide a more stable learning process since it incorporates more comprehensive feedback from the environment into each update.

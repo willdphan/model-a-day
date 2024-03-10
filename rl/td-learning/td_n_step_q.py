@@ -1,6 +1,7 @@
 """
 TD n-Step Q-Learning
-
+Created: 03-05-2024
+---
 Updates are based on a sequence of n steps into the future rather than just the immediate next step.
 
 This means the algorithm waits until n steps are taken before updating the Q-value for the state-action pair (s, a) using the sequence of rewards observed and the maximum Q-value n steps later (s_n).

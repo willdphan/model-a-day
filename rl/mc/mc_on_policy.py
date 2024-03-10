@@ -1,6 +1,7 @@
 """
 Monte Carlo On-Policy
-
+Created: 03-03-2024
+---
 The  script demonstrates an on-policy Monte Carlo simulation where an agent performs random walks in a two-dimensional space based on a heuristic policy. This policy biases the agent's movements towards returning to the origin, especially when the agent is considered "far away" (more than 3 units from the origin). 
 
 These results show the effectiveness of the heuristic policy in guiding the agent back to the origin, or close enough to it, after a specified number of steps in a random walk. The "walk size" refers to the number of steps taken in each walk, and the "% of no transport" indicates the percentage of walks that ended within 4 units of the origin, suggesting that no additional transport would be needed to return to the origin.

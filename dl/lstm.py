@@ -1,8 +1,6 @@
 
 """
 Long Short-term Memory Neural Network
-
-Author: William Phan
 Created: 12-24-2023
 """
 

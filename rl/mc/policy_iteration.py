@@ -1,3 +1,8 @@
+"""
+Policy Iteration
+Created: 03-03-2024
+"""
+
 # Adapted from: https://github.com/lazyprogrammer/machine_learning_examples/tree/master/rl
 import numpy as np
 import sys

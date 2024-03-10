@@ -1,6 +1,7 @@
 """
 Q-Learning, Off-Policy TD Control
-
+Created: 03-05-2024
+---
 Q-Learning is a type of reinforcement learning algorithm used to inform an agent on how to act optimally in a given environment by learning the value of actions in states without requiring a model of the environment. 
 
 It aims to find the best action to take in a given state by learning the highest future rewards that action can yield, updating its knowledge as it explores the environment.

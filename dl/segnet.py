@@ -1,8 +1,6 @@
 """
 SegNet
-
-Author: William Phan
-Created: 1-08-2024
+Created: 01-08-2024
 """
 
 import torch
